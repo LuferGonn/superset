@@ -127,7 +127,7 @@
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
     "match-sorter": "^6.1.0",
-    "mathjs": "^8.0.1",
+    "mathjs": "^9.4.4",
     "memoize-one": "^5.1.1",
     "moment": "^2.26.0",
     "mousetrap": "^1.6.1",
